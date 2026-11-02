@@ -274,3 +274,12 @@ This project demonstrates the successful application of tabular Q-learning to a 
 The comparison of exploration strategies showed that a decaying ε-greedy policy significantly improves learning efficiency and final performance relative to a fixed ε-greedy approach.
 
 ---
+
+## Author
+
+**Opoku Asante Emmanuel**, Data Scientist and Financial Economist
+Email: vkpoasante@gmail.com
+
+## License
+**MIT**
+
