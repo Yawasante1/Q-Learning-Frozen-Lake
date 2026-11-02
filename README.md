@@ -278,6 +278,7 @@ The comparison of exploration strategies showed that a decaying ε-greedy policy
 ## Author
 
 **Opoku Asante Emmanuel**, Data Scientist and Financial Economist
+
 Email: vkpoasante@gmail.com
 
 ## License
