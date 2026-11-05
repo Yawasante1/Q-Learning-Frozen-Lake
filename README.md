@@ -6,26 +6,6 @@ This project implements a custom **8×8 Frozen Lake environment** and solves it 
 
 The objective is for an agent to learn an optimal path from the start state to the goal state while avoiding holes that terminate an episode. Learning is achieved through repeated interaction with the environment and updates to a Q-table using the Q-learning update rule.
 
-The project was developed as part of a Reinforcement Learning coursework assignment.
-
----
-
-## Student Information
-
-**Name:** OPOKU ASANTE EMMANUEL
-
-**Student ID:** 22426020
-
----
-
-## GitHub Repository
-
-Repository URL:
-
-https://github.com/Yawasante1/RL-FrozenLake-Assignment
-
----
-
 ## Project Structure
 
 ```text
