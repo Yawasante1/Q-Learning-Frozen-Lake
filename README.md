@@ -1,4 +1,4 @@
-# Reinforcement Learning Assignment: Solving a Custom Frozen Lake Environment Using Q-Learning
+# Solving a Custom Frozen Lake Environment Using Q-Learning
 
 ## Overview
 
